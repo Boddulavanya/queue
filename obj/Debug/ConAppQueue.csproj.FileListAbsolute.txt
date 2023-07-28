@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.pdb
